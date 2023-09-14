@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :wave:
 
 <!--
 **roshniahuja/roshniahuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to my page!
-I'm Roshni Ahuja, wordpress engineer from India's flag Ahmedabad, India working remotely for 10up Indian flag.
+I'm Roshni Ahuja, WordPress engineer from :india: , working remotely for 10up INC.
 
 Things I use/program
 HTML JavaScript CSS html5 php SASS
 WordPress Gutenberg REACT Webpack Docker Github npm
 
 Where to find me
-[Web](https://about.me/roshniahuja) [Twitter]([url](https://twitter.com/roshniahuja14)https://twitter.com/roshniahuja14) LinkedIn Github
+[Web](https://about.me/roshniahuja) [Twitter](https://twitter.com/roshniahuja14) [LinkedIn](https://www.linkedin.com/in/roshni-a-19a823100) [Github](https://github.com/roshniahuja)
