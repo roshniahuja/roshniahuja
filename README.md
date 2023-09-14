@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my page!
+I'm Roshni Ahuja, wordpress engineer from India's flag Ahmedabad, India working remotely for 10up Indian flag.
+
+Things I use/program
+HTML JavaScript CSS html5 php SASS
+WordPress Gutenberg REACT Webpack Docker Github npm
+
+Where to find me
+[Web](https://about.me/roshniahuja) [Twitter]([url](https://twitter.com/roshniahuja14)https://twitter.com/roshniahuja14) LinkedIn Github
