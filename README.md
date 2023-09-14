@@ -32,7 +32,6 @@ I'm Roshni Ahuja, WordPress Engineer from INDIA :india: , working remotely for 1
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 <img alt="Gutenberg" src="https://img.shields.io/badge/-Gutenberg-000?style=flat-square&logo=gutenberg&logoColor=white" />
 <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-<img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=woocommerce&logoColor=white" />
 </p>
 
 <h3> Where to find me </h3>
